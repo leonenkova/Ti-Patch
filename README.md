@@ -1,4 +1,13 @@
 # Ti-Patch
-This repository implements the paper "Ti-Patch: Tiled Physical Adversarial Patch for no-reference video quality metrics"
+This repository implements the paper "Ti-Patch: Tiled Physical Adversarial Patch for no-reference video quality metrics" [[arxiv](https://arxiv.org/abs/2404.09961)]
 
-coming soon...
+## Datasets
+For training, we selected 1000 256x256 images from the COCO dataset. 
+Validation was performed using 250 256x256 images from the COCO.
+
+## Model
+We attacked [PaQ-2-PiQ](https://github.com/baidut/paq2piq) NR image quality metric. 
+
+## Code
+
+## Visualization
