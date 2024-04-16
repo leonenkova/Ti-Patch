@@ -9,6 +9,6 @@ Validation was performed using 250 256x256 images from the COCO.
 We attacked [PaQ-2-PiQ](https://github.com/baidut/paq2piq) NR image quality metric. 
 
 ## Code
-To generate the Ti-Patch use the following code.
+To generate the Ti-Patch use the following [code](https://github.com/leonenkova/Ti-Patch/blob/main/Ti_Patch_Attack_Training.ipynb).
 
 ## Visualization
