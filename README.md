@@ -2,7 +2,7 @@
 This repository implements the paper "Ti-Patch: Tiled Physical Adversarial Patch for no-reference video quality metrics" [[arxiv](https://arxiv.org/abs/2404.09961)]
 
 ## Datasets
-For training, we selected 1000 256x256 images from the COCO dataset. 
+For training, we selected 1000 256x256 images from the [COCO](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset) dataset. 
 Validation was performed using 250 256x256 images from the COCO.
 
 ## Model
