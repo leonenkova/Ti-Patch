@@ -12,6 +12,8 @@ We attacked [PaQ-2-PiQ](https://github.com/baidut/paq2piq) NR image quality metr
 ## Code
 To generate the Ti-Patch use the following [code](https://github.com/leonenkova/Ti-Patch/blob/main/Ti_Patch_Attack_Training.ipynb).
 
+To test the generated patch you can use [this code](https://github.com/leonenkova/Ti-Patch/blob/main/Test_patches_PaQ_2_PiQ.ipynb).
+
 ## Visualization
 The examples of proposed patches:
 ![](https://github.com/leonenkova/Ti-Patch/blob/main/ims/Exmpls.png)
