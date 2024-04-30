@@ -35,3 +35,18 @@ The example of wallpaper physical attack:
 https://github.com/leonenkova/Ti-Patch/assets/144721475/976f9324-d075-4051-a910-09fc77180947
 
 
+
+## Citation
+If you use this code for your research, please cite our paper.
+
+```
+@misc{leonenkova2024tipatch,
+      title={Ti-Patch: Tiled Physical Adversarial Patch for no-reference video quality metrics}, 
+      author={Victoria Leonenkova and Ekaterina Shumitskaya and Anastasia Antsiferova and Dmitriy Vatolin},
+      year={2024},
+      eprint={2404.09961},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
