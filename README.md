@@ -30,4 +30,8 @@ From left to right: Baseline, Baseline+TV+NPS, BaselineL, BaselineL+, B-WBaselin
 
 
 The example of wallpaper physical attack:
-![](https://github.com/leonenkova/Ti-Patch/blob/main/ims/AdvWallpaperExp.gif)
+
+
+https://github.com/leonenkova/Ti-Patch/assets/144721475/976f9324-d075-4051-a910-09fc77180947
+
+
